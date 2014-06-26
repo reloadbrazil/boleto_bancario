@@ -2,8 +2,8 @@ PATH
   remote: .
   specs:
     boleto_bancario (0.0.2.beta)
-      activemodel (~> 4.0.0)
-      activesupport (~> 4.0.0)
+      activemodel (>= 3.2.18)
+      activesupport (>= 3.2.18)
       barby
       rake
 
